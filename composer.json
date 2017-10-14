@@ -1,0 +1,17 @@
+{
+    "name": "leovujanic/first-package",
+    "description": "This is my first composer package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "leovujanic",
+            "email": "leonard.vujanic@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "leovujanic\\firstpack\\": "src/"
+        }
+    }
+}
