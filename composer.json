@@ -2,6 +2,7 @@
     "name": "leovujanic/first-package",
     "description": "This is my first composer package",
     "type": "library",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "leovujanic",
